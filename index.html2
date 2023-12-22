@@ -1,0 +1,11 @@
+WINDOWS VS DOCUMENT
+WINDOWS OBJECT : It is the top most object and outermost element of the object hierarchy.
+* The window object represents a window/tab containing a DOM document .
+* window.open()opens a new tab or window'
+DOCUMENT OBJECT : Each HTML document that gets loaded into a window becomes a document object.
+* The document contains the contents of the page.
+* Using document object, javascript can modify, add and delete the HTML elements,attributes  CSS styles in the page.
+* Document object is property of window object that points to the DOM document loaded in that window.
+* you can acess a document object using window.
+* Document property or using document object directly as window is global object.
+* documents.open() creates a blank document within the window.
